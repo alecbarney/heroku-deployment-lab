@@ -9,7 +9,7 @@ res.sendFile(path.join(__dirname, '../index.html'))
 });
 
 app.get('/css', (req, res) => {
-    res.sendFile(path.join(__dirname, '../index.css'))
+    res.sendFile(path.join(__dirname, './index.css'))
   })
 
 // app.use('/', express.static(path.join(__dirname, '../index.css')))
