@@ -1,5 +1,14 @@
 h1{
-    background-color: blue;
+    background-color: black;
     color: white;
-    font-family: roboto ;
+    font-family:cursive;
+}
+img{
+    height:250px;
+    width: 175px
+}
+h2{
+    background-color: black;
+    color: white;
+    font-family: cursive;
 }
